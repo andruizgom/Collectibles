@@ -1,2 +1,6 @@
 let bnz = 8;
-let a = 1
+
+const miCasa = (i) => {
+  const contador = i++;
+  return contador;
+};
